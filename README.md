@@ -1,0 +1,4 @@
+GrailsApp
+=========
+
+First Grails app
